@@ -12,7 +12,7 @@ Vericar a seção de cupons de desconto por categoria.
 
 [Moda e Acessórios](https://asasdodesconto.com/moda-e-acessorios)
 
-https://asasdodesconto.com/mais-ofertas
+[Frete grátis](https://asasdodesconto.com/search?q=frete+gr%C3%A1tis)
 
 [Mais Ofertas](https://asasdodesconto.com/mais-ofertas)
 
